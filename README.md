@@ -1,6 +1,7 @@
 # SETRec
 This is the pytorch implementation of our paper 
 > [Order-agnostic Identifier for Large Language Model-based Generative Recommendation](https://arxiv.org/pdf/2502.10833)
+
 > [Xinyu Lin](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=0O_bs3UAAAAJ&sortby=pubdate), [Haihan Shi](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/people.html), [Wenjie Wang](https://wenjiewwj.github.io/), [Fuli Feng](https://fulifeng.github.io/), [Qifan Wang](https://wqfcr.github.io/), [See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/), [Tat-Seng Chua](https://www.chuatatseng.com/)
 
 ## Environment
