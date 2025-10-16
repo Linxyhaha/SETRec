@@ -37,4 +37,4 @@ item_embeddings = torch.cat(item_embeddings, dim=0)
 
 # save item_embeddings
 item_embeddings = item_embeddings.numpy()
-np.save(f'./{dataset}/{dataset}.emb-sentencet5-tdcb.npy', item_embeddings)
+np.save(f'./{dataset}/{dataset}.emb-t5-tdcb.npy', item_embeddings)
